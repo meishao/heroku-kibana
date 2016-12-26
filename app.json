@@ -19,7 +19,7 @@
   "addons": [ "bonsai:sandbox" ],
   "buildpacks": [
     {
-      "url": "https://github.com/omc/heroku-buildpack-kibana"
+      "url": "https://github.com/meishao/heroku-buildpack-kibana"
     }
   ]
 }

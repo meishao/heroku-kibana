@@ -6,8 +6,8 @@
     "elasticsearch", "elastic", "bonsai"
   ],
   "website": "https://bonsai.io/",
-  "repository": "https://github.com/omc/heroku-kibana",
-  "logo": "https://cdn.rawgit.com/omc/heroku-kibana/master/kibana.svg",
+  "repository": "https://github.com/meishao/heroku-kibana",
+  "logo": "https://cdn.rawgit.com/meishao/heroku-kibana/master/kibana.svg",
   "success_url": "/",
   "env": {
     "ELASTICSEARCH_URL": {

@@ -1,1 +1,1 @@
-web: kibana -p $PORT -e https://thxg2pz0:f6m6igabvaxl9z8x@jasmine-1172611.us-east-1.bonsaisearch.net:443
+web: kibana -p $PORT -e https://c4cclqx90k:4wsz5bkzyg@toyo-test-7959878724.us-west-2.bonsaisearch.net:443

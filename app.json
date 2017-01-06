@@ -12,7 +12,7 @@
   "env": {
     "ELASTICSEARCH_URL": {
       "description": "If you already have an Elasticsearch cluster, you can provide its URL here and remove the provisioned addon after initial deployment.",
-      "value": "https://thxg2pz0:f6m6igabvaxl9z8x@jasmine-1172611.us-east-1.bonsaisearch.net",
+      "value": "https://c4cclqx90k:4wsz5bkzyg@toyo-test-7959878724.us-west-2.bonsaisearch.net",
       "required": true
     }
   },
